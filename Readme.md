@@ -1,0 +1,4 @@
+Este script permite convertir una URL de YouTube en una transcripción de texto y copiarla al portapapeles, manteniendo el formato adecuado para usarlo con PROMTO, una herramienta de PROMPTING. PROMTO es un software desarrollado por Innocreatividad, una empresa dedicada a la innovación y la creatividad. Puedes encontrar más información sobre PROMTO y sus características en: https://innocreatividad.com/producto/promto-ai/
+
+
+This script allows you to convert a YouTube URL into a text transcription and copy it to the clipboard, while maintaining the appropriate format to use them with PROMTO, a prompting tool. PROMTO is a software developed by Innocreatividad, a company dedicated to innovation and creativity. You can find more information about PROMTO and its features at: https://innocreatividad.com/producto/promto-ai/ 
